@@ -1,11 +1,11 @@
 
-# MyDesign App
+# carbon App
 
-![MyDesign App](https://missaodesign.com)
+![Carbon App](https://missaodesign.com)
 
 ## Descrição
 
-O **MyDesign App** é uma plataforma integrada para pequenas e médias empresas, oferecendo soluções de marketing digital, design de sites, e gestão de clientes (CRM), e-comerces. Nosso objetivo é capacitar nossos clientes a alcançarem sucesso através de ferramentas digitais inovadoras e personalizáveis.
+O **Carbon App** é uma plataforma integrada para pequenas e médias empresas, oferecendo soluções de marketing digital, design de sites, e gestão de clientes (CRM), e-comerces. Nosso objetivo é capacitar nossos clientes a alcançarem sucesso através de ferramentas digitais inovadoras e personalizáveis.
 
 ## Tabela de Conteúdos
 
@@ -20,7 +20,7 @@ O **MyDesign App** é uma plataforma integrada para pequenas e médias empresas,
 
 ## Visão Geral
 
-**MyDesign App** é uma solução moderna, construída com tecnologias avançadas como Next.js, React, Prisma e TailwindCSS. A plataforma é escalável, segura e fácil de usar, oferecendo uma interface intuitiva tanto para administradores quanto para usuários finais.
+**Carbon App** é uma solução moderna, construída com tecnologias avançadas como Next.js, React, Prisma e TailwindCSS. A plataforma é escalável, segura e fácil de usar, oferecendo uma interface intuitiva tanto para administradores quanto para usuários finais.
 
 ## Funcionalidades Principais
 
@@ -77,7 +77,7 @@ Para configurar o ambiente de desenvolvimento, siga os passos abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/thonycs8/mydesign
+   git clone https://github.com/thonycs8/carbon
    ```
 
 2. Navegue até o diretório do projeto:
